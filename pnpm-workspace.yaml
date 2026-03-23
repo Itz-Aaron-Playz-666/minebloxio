@@ -1,0 +1,6 @@
+allowBuilds:
+  '@firebase/util': true
+  '@parcel/watcher': true
+  node: true
+  protobufjs: true
+  sharp: true
